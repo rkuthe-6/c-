@@ -1,8 +1,9 @@
-//Este es un pequeño programa codificador y descodificador de texto en formato ASCII para c++
+//Este es un pequeño programa codificador y descodificador de texto en formato ASCII para c++ de 5 caracteres y 5 letras(aumentable)
 //Este es el decodificador
-//Borrar doble comillas en los Iostream
+//Borrar doble comillas en los Iostream y agregarle "<"(al inicio y sin comillas) y ">" al final y sin comillas
+//Si quieren poner mas valores, solo vayan aumentando las entradas de variable "double" o "char"
 
-#include "<iostream>"
+#include "iostream"
 
 using namespace std;
 int main()
@@ -21,7 +22,7 @@ int main()
   
  //Este el codificador
  
- #include "<iostream>"
+ #include "iostream"
 
 using namespace std;
 int main()
