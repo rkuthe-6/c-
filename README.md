@@ -1,7 +1,8 @@
 //Este es un pequeño programa codificador y descodificador de texto en formato ASCII para c++
 //Este es el decodificador
+//Borrar doble comillas en los Iostream
 
-#include <iostream>
+#include "<iostream>"
 
 using namespace std;
 int main()
@@ -20,7 +21,7 @@ int main()
   
  //Este el codificador
  
- #include <iostream>
+ #include "<iostream>"
 
 using namespace std;
 int main()
