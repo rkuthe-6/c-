@@ -1,5 +1,6 @@
 //Este es un pequeño programa codificador y descodificador de texto en formato ASCII para c++
 //Este es el decodificador
+
 #include <iostream>
 
 using namespace std;
